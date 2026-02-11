@@ -48,19 +48,16 @@ Vincent offers two ways to get started:
 ### Option 1: Install Skills to Existing Agents
 Add Vincent's capabilities to agents you're already using:
 ```bash
-# Installation instructions coming soon
+# Add this repo URL to your agent runtime to browse and install skills:
+https://github.com/HeyVincent-ai/agent-skills
 ```
 
 ### Option 2: Deploy a New Agent
-Let Vincent create and configure an agent for you:
-```bash
-# Deployment instructions coming soon
-```
+[Sign up at heyvincent.ai](https://heyvincent.ai) to deploy a new agent configured by Vincent.
 
 ## 📚 Learn More
 
 - **Website**: [heyvincent.ai](https://heyvincent.ai)
-- **Documentation**: Coming soon
 - **Community**: [Join our Discord](https://discord.gg/FPkF6cZf)
 - **Support**: support@litprotocol.com
 
