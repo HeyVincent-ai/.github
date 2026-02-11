@@ -61,7 +61,8 @@ Let Vincent create and configure an agent for you:
 
 - **Website**: [heyvincent.ai](https://heyvincent.ai)
 - **Documentation**: Coming soon
-- **Community**: Join our discussions
+- **Community**: [Join our Discord](https://discord.gg/FPkF6cZf)
+- **Support**: support@litprotocol.com
 
 ## 🤝 Contributing
 
@@ -75,7 +76,7 @@ See individual repositories for license information.
 
 <div align="center">
 
-Built with ❤️ by the Vincent team
+Built with ❤️ by the Vincent team from [Lit Protocol](https://litprotocol.com)
 
 [heyvincent.ai](https://heyvincent.ai)
 
