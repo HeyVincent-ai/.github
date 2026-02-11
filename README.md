@@ -4,7 +4,7 @@
 
 **Deploy a self-improving AI agent that's safe to use with money**
 
-[Visit heyvincent.ai](https://heyvincent.ai) | [Documentation](#) | [Get Started](#getting-started)
+[Visit heyvincent.ai](https://heyvincent.ai) | [Documentation](#-learn-more) | [Get Started](#-getting-started)
 
 </div>
 
